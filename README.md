@@ -1,4 +1,4 @@
-## 👋 Hi there!
+##  Hi there!
 
 I'm **[Akhil C](https://linkedin.com/in/akhileehh)** — a DevOps Engineer specialized in **AWS Cloud, CI/CD Automation, and Microservices Architecture**.  
 With a strong foundation in **Linux, Containerization, and Infrastructure as Code**, I focus on building scalable, automated, and reliable DevOps pipelines that bridge development and operations.
@@ -59,4 +59,4 @@ With a strong foundation in **Linux, Containerization, and Infrastructure as Cod
 
 ⭐ _“Automation is not just efficiency — it’s reliability at scale.”_  
 
--->
+
