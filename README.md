@@ -1,16 +1,62 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**akhileehh/akhileehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Akhil C](https://linkedin.com/in/akhileehh)** — a DevOps Engineer specialized in **AWS Cloud, CI/CD Automation, and Microservices Architecture**.  
+With a strong foundation in **Linux, Containerization, and Infrastructure as Code**, I focus on building scalable, automated, and reliable DevOps pipelines that bridge development and operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💼 About Me
+
+- 🚀 **DevOps Engineer** with hands-on experience in **AWS Cloud, Jenkins, Docker, Kubernetes, Ansible, and Terraform**.  
+- 🧩 Skilled in **CI/CD pipeline design**, **infrastructure automation**, and **application deployment**.  
+- 🧠 Passionate about continuous learning — currently expanding expertise in **monitoring, observability, and AI-driven automation**.  
+- ⚙️ Strong understanding of **Linux administration**, **shell scripting**, and **cloud-native development**.  
+- 💡 Committed to implementing efficient, secure, and high-performing DevOps solutions.
+
+---
+
+### ☁️ Core Competencies
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+| **Project** | **Description** |
+|--------------|-----------------|
+| **[End-to-End CI/CD Pipeline for Scalable Microservices Architecture](#)** | Implemented using Jenkins, GitLab, Docker, Terraform, Ansible, and Kubernetes on AWS for automated deployments. |
+| **[Multi-Microservice E-commerce Application – DevOps Implementation](#)** | Automated build and deployment with Docker, Jenkins, and Prometheus-Grafana monitoring stack. |
+| **[AI-Powered DevOps Assistant](#)** | A Discord-based AI assistant connected to AWS that automates troubleshooting, CloudWatch log analysis, and infrastructure management. |
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://linkedin.com/in/akhileehh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/akhileehh"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+⭐ _“Automation is not just efficiency — it’s reliability at scale.”_  
+
 -->
