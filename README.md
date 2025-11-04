@@ -42,11 +42,15 @@ With a strong foundation in **Linux, Containerization, and Infrastructure as Cod
 
 ### 🧩 Featured Projects
 
-| **Project** | **Description** |
-|--------------|-----------------|
-| **[End-to-End CI/CD Pipeline for Scalable Microservices Architecture](https://github.com/akhileehh/end-to-end-CICD)** | Designed and implemented a complete CI/CD pipeline using Jenkins, GitLab, Docker, Terraform, Ansible, and Kubernetes on AWS for automated microservices deployment. |
-| **[AI-Powered DevOps Assistant](https://github.com/akhileehh/ai-devops-assistant)** | A Discord-based AI assistant integrated with AWS that automates troubleshooting, CloudWatch log analysis, and infrastructure management for DevOps workflows. |
-| **Multi-Microservice E-commerce Application – DevOps Implementation** | Automated build and deployment with Docker, Jenkins, and a Prometheus-Grafana monitoring stack for microservices-based e-commerce infrastructure. |
+
+| **Project** | **Overview** | **Tech Stack** |
+|--------------|---------------|----------------|
+| **[End-to-End CI/CD Pipeline for Scalable Microservices Architecture](https://github.com/akhileehh/end-to-end-CICD.git)** | Implemented a fully automated CI/CD pipeline for a Spring Boot microservices architecture using Jenkins, GitLab, and Terraform with Kubernetes orchestration on AWS. Achieved **95% faster deployments** and **100% automation**. | AWS · Kubernetes · Docker · Terraform · Jenkins · Ansible · Traefik |
+| **[AI-Powered DevOps Assistant](https://github.com/akhileehh/ai-devops-assistant.git)** | Built an AI-driven Discord bot integrating LLMs for AWS automation, CloudWatch log analysis, and IaC generation. Reduced **AWS troubleshooting time by 93%**, maintained **99.5% uptime**, and achieved **<$15/month** operational cost. | Python · AWS · Docker · Terraform · Prometheus · Grafana · OpenAI API |
+| **Multi-Microservice E-commerce Application – DevOps Implementation** | Deployed a multi-microservice e-commerce platform using IaC with Terraform, automated CI with GitHub Actions, and CD via Argo CD on EKS. Delivered **scalable**, **high-availability** infrastructure. | AWS · Terraform · Docker · GitHub Actions · Argo CD · EKS |
+
+
+
 
 ---
 
