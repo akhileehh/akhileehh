@@ -1,4 +1,4 @@
-##  Hi there!
+## Hi there!
 
 I'm **[Akhil C](https://linkedin.com/in/akhileehh)** — a DevOps Engineer specialized in **AWS Cloud, CI/CD Automation, and Microservices Architecture**.  
 With a strong foundation in **Linux, Containerization, and Infrastructure as Code**, I focus on building scalable, automated, and reliable DevOps pipelines that bridge development and operations.
@@ -44,9 +44,9 @@ With a strong foundation in **Linux, Containerization, and Infrastructure as Cod
 
 | **Project** | **Description** |
 |--------------|-----------------|
-| **[End-to-End CI/CD Pipeline for Scalable Microservices Architecture](#)** | Implemented using Jenkins, GitLab, Docker, Terraform, Ansible, and Kubernetes on AWS for automated deployments. |
-| **[Multi-Microservice E-commerce Application – DevOps Implementation](#)** | Automated build and deployment with Docker, Jenkins, and Prometheus-Grafana monitoring stack. |
-| **[AI-Powered DevOps Assistant](#)** | A Discord-based AI assistant connected to AWS that automates troubleshooting, CloudWatch log analysis, and infrastructure management. |
+| **[End-to-End CI/CD Pipeline for Scalable Microservices Architecture](https://github.com/akhileehh/end-to-end-CICD)** | Designed and implemented a complete CI/CD pipeline using Jenkins, GitLab, Docker, Terraform, Ansible, and Kubernetes on AWS for automated microservices deployment. |
+| **[AI-Powered DevOps Assistant](https://github.com/akhileehh/ai-devops-assistant)** | A Discord-based AI assistant integrated with AWS that automates troubleshooting, CloudWatch log analysis, and infrastructure management for DevOps workflows. |
+| **Multi-Microservice E-commerce Application – DevOps Implementation** | Automated build and deployment with Docker, Jenkins, and a Prometheus-Grafana monitoring stack for microservices-based e-commerce infrastructure. |
 
 ---
 
@@ -57,6 +57,4 @@ With a strong foundation in **Linux, Containerization, and Infrastructure as Cod
 
 ---
 
-⭐ _“Automation is not just efficiency — it’s reliability at scale.”_  
-
-
+⭐ _“Automation is not just efficiency — it’s reliability at scale.”_
